@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/GaneshKantle/">
                     <img src="https://avatars.githubusercontent.com/u/138245188?v=44" width="100px;" alt="Ganesh Kantle"/>
                     <br />
-                    <sub><b>Ganesh Kantle</b></sub>
+                    <sub><b>Ganesh Kantleeeee</b></sub>
                 </a> 
             </td>
             <td align="center">
